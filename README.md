@@ -83,3 +83,9 @@ Output files (e.g., `3d_metro_0.txt`) containing magnetization data will be gene
 [2] Yang, C. N. (1952). The Spontaneous Magnetization of a Two-Dimensional Ising Model: Phys.Rev. Volume 85, Issue 5, Pages 808-816\
 [3] Sonsin, Artur & Cortes, Mariane & Nunes, D & Gomes, J & Costa, R. (2015). Computational Analysis of 3D Ising Model Using Metropolis Algorithms. Journal of Physics: Conference Series.\
 [4] E.Z. Meilikhov, R.M. Farzetdinova (2006). Curie temperature for Small World Ising systems of different dimensions, Journal of Magnetism and Magnetic Materials, Volume 300, Issue 1, Pages 254-256.
+
+### Acknowledgments
+
+This project was developed as part of my B.S. thesis in Physics at Seoul National University.
+
+I extend my sincere gratitude to [Sunkyu Lee](https://www.researchgate.net/scientific-contributions/Sunkyu-Lee-2134141485) and [Chanju Park](https://orcid.org/0009-0009-2750-6080) for their insightful guidance on topic selection and research methodology. I also thank Professor [Wonjong Lee](https://physics.snu.ac.kr/en/research-faculty/faculty/fulltime?mode=view&profidx=4) for his supervision and for providing the research environment.
